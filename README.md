@@ -1,5 +1,3 @@
-<br/>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -22,6 +20,4 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
-</td></tr></table>  
-
-<br/>
+</td></tr></table>
