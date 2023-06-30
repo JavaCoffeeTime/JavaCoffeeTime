@@ -1,13 +1,5 @@
 <br/>
 
-- 👋 Hi, I’m Camille
-- 👀 I’m interested in Development, System, Network, Security
-- 🌱 I’m currently learning Java programming
-- 💞️ I’m looking to collaborate on backend projects
-- 📫 Private message to reach me...
-
-<br/>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
