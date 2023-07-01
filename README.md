@@ -1,4 +1,4 @@
-![Header](./java-image.png)
+![Header](./header-image.png)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
