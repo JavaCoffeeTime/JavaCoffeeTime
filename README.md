@@ -28,9 +28,4 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
-</td></tr></table>  
-
-## Github Stats  
-
-### My habits on GitHub
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCoffeeTime&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+</td></tr></table>
