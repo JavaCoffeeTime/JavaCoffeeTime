@@ -1,7 +1,7 @@
 127.0.0.1![Header](./welcome-image.png)
 127.0.0.2![Header](./javacoffeetime-image.png)
 
-## My Skill Set  
+## My skill set  
 <table><tr><td valign="top" width="25%">
 
 ### Infrastructure
